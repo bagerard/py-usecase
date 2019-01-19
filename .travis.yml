@@ -8,9 +8,6 @@ env:
     - TOXENV=check
 matrix:
   include:
-    - python: '2.7'
-      env:
-        - TOXENV=py27,report,codecov
     - python: '3.6'
       env:
         - TOXENV=py36,report,codecov
