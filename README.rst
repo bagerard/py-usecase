@@ -17,9 +17,9 @@ Overview
       - | |version| |wheel| |supported-versions| |supported-implementations|
         | |commits-since|
 
-.. |travis| image:: https://travis-ci.org/bagerard/py-usecase.svg?branch=master
+.. |travis| image:: https://travis-ci.com/bagerard/py-usecase.svg?branch=master
     :alt: Travis-CI Build Status
-    :target: https://travis-ci.org/bagerard/py-usecase
+    :target: https://travis-ci.com/bagerard/py-usecase
 
 .. |codecov| image:: https://codecov.io/github/bagerard/py-usecase/coverage.svg?branch=master
     :alt: Coverage Status
